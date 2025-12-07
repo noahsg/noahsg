@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 | Category | My Go-To Tools |
 | :--- | :--- |
 | **Languages** | `[Python]`, `[RScript]`, `[HTML/CSS]`, `[etc.]` |
-| **DevOps/Tools** | `[Git/GitHub]`, `[VS Code]` |
+| **DevOps/Tools** | `[Git/GitHub]`, `[VS Code]` | `[Antigravity]`|
 
 ### 🚀 Quick Stats & Fun Facts
 
