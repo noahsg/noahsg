@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### 💻 Currently Working On
 
-* ✨ **AI Powered Email Personalization:** This tool allows you to easily manage and execute a 3 staged email campaign, powered by AI to perform hyper-personalization
+* ✨ **AI Powered Email Personalization:** This tool allows you to easily manage and execute a 3 staged email campaign, powered by AI to perform hyper-personalization (https://github.com/noahsg/uscbusinesstechgroupemailtool)
 * 📚 **Learning:** Exploring the fascinating world of **DNNs, CNNs, and GNNs**.
 
 ### 🔧 Tech Stack & Tools
