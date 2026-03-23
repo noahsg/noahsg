@@ -22,8 +22,13 @@ Here are some ideas to get you started:
 
 ### 💻 Currently Working On
 
-* ✨ **AI Powered Email Personalization:** This tool allows you to easily manage and execute a 3 staged email campaign, powered by AI to perform hyper-personalization (https://github.com/noahsg/uscbusinesstechgroupemailtool)
+* ✨ **Serendipity:** This webapp links up to your calendar and your friends calendars to notify you when you are traveling to the same city, helping set up spontaneous hangouts with long-distance friends 
 * 📚 **Learning:** Exploring the fascinating world of **DNNs, CNNs, and GNNs**.
+
+### 🚀 Featured Projects
+
+* ✨ **Custom CRM with AI Powered Email Personalization:** This tool allows you to easily manage and execute a 3 staged email campaign, powered by AI to perform hyper-personalization (https://github.com/noahsg/uscbusinesstechgroupemailtool)
+* ✨ **Slide Critiquer:** This tool allows users to upload PDF or PPTX slides and compares them against a gold standard set of slides to provide feedback and critiques. Uses a Multi-labeling CNN and Hybrid RAG method (Visual Layout using OpenAI CLIP and Text Content using MiniLM) to match slides.(https://github.com/noahsg/slide_critiquer/blob/main/README.md))
 
 ### 🔧 Tech Stack & Tools
 
